@@ -1,7 +1,6 @@
 CHILLFLIX..
 
-Created COSINE SIMILARITY-BASED Recommendation system.
-Built on STREAMLIT using PYTHON
+Created COSINE SIMILARITY-BASED ANIME/MOVIE Recommendation system, UI using STREAMLIT Framework in Python.
 
 The cosine similarity will then be calculated between the movies to determine which movies are most similar to one another, and the data is transferred to Streamlit using PICKLE module of Python
 
